@@ -1,0 +1,5 @@
+- 👋 Hello, I'm @PedanticHacker.
+- 👀 I’m a pedantic GUI app developer.
+- 🌱 I’m currently developing a chess GUI app.
+- 💞️ I’m interested in GUI development with a team.
+- 📫 You can reach me via e-mail at bostjan[dot]xperia[at]gmail[dot]com.
